@@ -16,21 +16,19 @@
 
 ########################################
 
-my_str = "hello, world!!!"
-for symbol in my_str:
-    if symbol.isupper():
-        print(my_str.lower())
-    else:
-        print(my_str.upper())
+# my_str = "hello, world!!!"
+# my_str_1 = my_str.upper()
+# print(my_str_1)
 
 #########################################
 
 # my_str = "HELLO, WORLD!!!"
-# print(my_str.lower())
+# my_str_1 = my_str.lower()
+# print(my_str_1)
 
 #########################################
 
-# my_str = "Hell"
+# my_str = "qwer"
 # if len(my_str) < 5:
 #     print(my_str * 2)
 # else:
